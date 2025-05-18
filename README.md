@@ -26,7 +26,7 @@ A Python-based Tkinter GUI application for simulating and visualizing power grid
 ## 🗂️ File Structure
 
 - `power_grid_rerouting.py` - Main GUI application
-- `mainCode.cpp - Main Code in cpp
+- `mainCode.cpp` - Main Code in cpp
 - `data.txt` - Input graph data (sample provided)
 - `README.md` - Project documentation
 
@@ -60,8 +60,12 @@ A Python-based Tkinter GUI application for simulating and visualizing power grid
 
 
 The first line 13 15 means:
+```
 13: Total number of nodes (or grids) in the power grid (numbered from 0 to 12).
+```
+```
 15: This is likely outdated or misleading — there are actually 22 edges in the file. The program doesn't strictly rely on this number; it just reads all edges from the subsequent lines.
+```
 
 Each subsequent line (e.g., 0 1 15) represents an undirected edge:
 0: Source grid (node)
