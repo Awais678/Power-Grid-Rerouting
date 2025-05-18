@@ -26,7 +26,7 @@ A Python-based Tkinter GUI application for simulating and visualizing power grid
 ## 🗂️ File Structure
 
 - `power_grid_rerouting.py` - Main GUI application
-- - `mainCode.cpp - Main Code in cpp
+- `mainCode.cpp - Main Code in cpp
 - `data.txt` - Input graph data (sample provided)
 - `README.md` - Project documentation
 
