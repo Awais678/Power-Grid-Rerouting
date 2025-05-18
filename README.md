@@ -126,3 +126,5 @@ iv.	A graph is drawn using matplotlib:
 •	Edges show weights
 ```
 
+![Image](https://github.com/user-attachments/assets/1d2ed770-dec9-4917-87f7-ad10f9b05a6f)
+
