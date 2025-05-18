@@ -68,12 +68,19 @@ The first line 13 15 means:
 ```
 
 Each subsequent line (e.g., 0 1 15) represents an undirected edge:
+```
 0: Source grid (node)
+```
+```
 1: Destination grid (node)
+```
+```
 15: Weight (e.g., cost, distance, power loss, or any metric relevant to grid connection)
-
+```
 So, 0 1 15 means:
+```
 Grid 0 is connected to Grid 1 with a weight of 15.
+```
 
 
 ✅ STEP-BY-STEP WORKING
