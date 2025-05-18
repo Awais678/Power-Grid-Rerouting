@@ -104,24 +104,34 @@ When you run the script:<br>
 	       •   Faulty Grids (comma-separated)
 
 2. Loading the Graph
-   
+```
 When you click "Load Graph from data.txt":<br>
+```
+```
 
 🧠 What Happens Internally:
-
+```
+```
 i.	data.txt is opened and read.
-
+```
+```
 ii.	First line 13 15 is read:
-
+```
+```
 •	Total nodes = 13 (0 to 12)
-
+```
+```
 iii.	Each remaining line is treated as an edge:
-
+```
+```
 •	Example: 0 1 15 → Connects node 0 and node 1 with weight 15
-
+```
+```
 iv.	A graph is drawn using matplotlib:
-
+```
+```
 •	Nodes are drawn as circles with labels
+```
 
 •	Edges show weights
 
