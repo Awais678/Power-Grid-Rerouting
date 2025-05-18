@@ -128,17 +128,6 @@ iv.	A graph is drawn using matplotlib:
 
 ![Image](https://github.com/user-attachments/assets/1d2ed770-dec9-4917-87f7-ad10f9b05a6f)
 
-3. User Enters Values
+3. Output Results
    
-User inputs:
-```
-•	Mark Faulty Grid (e.g., 2)
-```
-![Image](https://github.com/user-attachments/assets/218cc06a-583f-4039-91e6-bf6d7688ed18)
-```
-•	Reroute Around Faulty Grid (e.g., 2)
-```
 
-```
-•	Faulty Grids (e.g., 3,6,8)
-```
