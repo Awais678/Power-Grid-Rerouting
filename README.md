@@ -107,7 +107,7 @@ When you run the script:<br>
 
 When you click "Load Graph from data.txt":
 
-🧠 What Happens Internally:<br>
+What Happens Internally:<br>
 
 i.	data.txt is opened and read.
 
