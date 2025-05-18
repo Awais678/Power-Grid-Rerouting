@@ -113,17 +113,17 @@ i.	data.txt is opened and read.
 
 ii.	First line 13 15 is read:
 
-•	Total nodes = 13 (0 to 12)
+	•	Total nodes = 13 (0 to 12)
 
 iii.	Each remaining line is treated as an edge:
 
-•	Example: 0 1 15 → Connects node 0 and node 1 with weight 15
+	•	Example: 0 1 15 → Connects node 0 and node 1 with weight 15
 
 iv.	A graph is drawn using matplotlib:
 
-•	Nodes are drawn as circles with labels
+	•	Nodes are drawn as circles with labels
 
-•	Edges show weights
+	•	Edges show weights
 ```
 
 ![Image](https://github.com/user-attachments/assets/1d2ed770-dec9-4917-87f7-ad10f9b05a6f)
