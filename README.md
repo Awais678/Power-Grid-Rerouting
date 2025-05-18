@@ -130,6 +130,17 @@ iv.	A graph is drawn using matplotlib:
 
 3. Output Results
 
+The application shows the following nodes marked as faulty:
+```
+
+•       Grid 2
+
+•	Grid 4
+
+•	Grid 7
+
+These are represented as red nodes on the graph.
+```
 ![Image](https://github.com/user-attachments/assets/2f8801f7-5754-4e78-b0ba-b55a3da98205)
 
 ![Image](https://github.com/user-attachments/assets/ed2f6203-4874-4aaf-95f8-6d776179ffb1)
