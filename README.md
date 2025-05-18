@@ -1,4 +1,4 @@
-# ⚡ Power Grid Rerouting GUI
+![image](https://github.com/user-attachments/assets/0dba95a4-4f9f-4be4-ae9a-a141dafaa170)# ⚡ Power Grid Rerouting GUI
 
 A Python-based Tkinter GUI application for simulating and visualizing power grid rerouting using Dijkstra's algorithm. It enables dynamic fault handling and real-time graph visualization with rerouting functionality.
 
@@ -106,7 +106,7 @@ When you run the script:<br>
 2. Loading the Graph
 
 When you click "Load Graph from data.txt":
-
+```
 What Happens Internally:<br>
 
 i.	data.txt is opened and read.
@@ -127,5 +127,5 @@ iv.	A graph is drawn using matplotlib:
 •	Edges show weights
 
 •	Layout is computed with spring_layout() to make it visually clear
-
+```
 
