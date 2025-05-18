@@ -86,7 +86,8 @@ Grid 0 is connected to Grid 1 with a weight of 15.
 ✅ STEP-BY-STEP WORKING
 
 1. GUI Initialization (Tkinter)
-When you run the script:
+
+When you run the script:<br>
 •	A Tkinter GUI window opens.
 •	It displays:
       •   Buttons: Load Graph, Display Power Grid, Mark grid Faulty, Reroute Around Faulty Grid, Dijkstra's Rerouting, Exit
