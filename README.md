@@ -83,7 +83,7 @@ Grid 0 is connected to Grid 1 with a weight of 15.
 ```
 
 
-✅ STEP-BY-STEP WORKING
+## ✅ STEP-BY-STEP WORKING
 
 1. GUI Initialization (Tkinter)
 
@@ -154,5 +154,7 @@ The application has calculated a shortest path that avoids all faulty grid point
 
 ![Image](https://github.com/user-attachments/assets/ed2f6203-4874-4aaf-95f8-6d776179ffb1)
 
-✅ Conclusion 
+## ✅ Conclusion
+```
 This project helps you see how a power grid can handle faults in real time. When some parts (grids) fail, it finds a new, best path to keep the power flowing using smart algorithms. The red circles show broken grids, and the app shows a safe, working route around them. It’s easy to use and great for learning how smart power systems work.
+```
