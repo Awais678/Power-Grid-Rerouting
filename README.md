@@ -33,7 +33,7 @@ A Python-based Tkinter GUI application for simulating and visualizing power grid
 ---
 
 ## 📝 Sample `data.txt`
-
+```
 13 15
 0 1 15
 0 2 20
@@ -56,6 +56,7 @@ A Python-based Tkinter GUI application for simulating and visualizing power grid
 3 7 23
 3 6 9
 1 9 3
+```
 
 
 The first line 13 15 means:
