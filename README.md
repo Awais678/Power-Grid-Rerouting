@@ -132,11 +132,11 @@ iv.	A graph is drawn using matplotlib:
    
 User inputs:
 ```
-•	Mark Faulty Grid (e.g., 0)
+•	Mark Faulty Grid (e.g., 2)
 ```
 ![Image](https://github.com/user-attachments/assets/218cc06a-583f-4039-91e6-bf6d7688ed18)
 ```
-•	Destination Grid (e.g., 12)
+•	Reroute Around Faulty Grid (e.g., 2)
 ```
 
 ```
