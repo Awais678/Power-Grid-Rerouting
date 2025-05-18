@@ -156,5 +156,7 @@ The application has calculated a shortest path that avoids all faulty grid point
 
 ## ✅ Conclusion
 ```
-This project helps you see how a power grid can handle faults in real time. When some parts (grids) fail, it finds a new, best path to keep the power flowing using smart algorithms. The red circles show broken grids, and the app shows a safe, working route around them. It’s easy to use and great for learning how smart power systems work.
+This project helps you see how a power grid can handle faults in real time. When some parts (grids) fail, it finds a new, best
+path to keep the power flowing using smart algorithms. The red circles show broken grids, and the app shows a safe, working
+route around them. It’s easy to use and great for learning how smart power systems work.
 ```
