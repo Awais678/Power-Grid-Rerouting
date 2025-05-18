@@ -104,13 +104,10 @@ When you run the script:<br>
 	       •   Faulty Grids (comma-separated)
 
 2. Loading the Graph
-```
+
 When you click "Load Graph from data.txt":<br>
-```
-```
 
 🧠 What Happens Internally:
-```
 ```
 i.	data.txt is opened and read.
 ```
@@ -132,10 +129,11 @@ iv.	A graph is drawn using matplotlib:
 ```
 •	Nodes are drawn as circles with labels
 ```
-
+```
 •	Edges show weights
-
+```
+```
 •	Layout is computed with spring_layout() to make it visually clear
-
+```
 
 
