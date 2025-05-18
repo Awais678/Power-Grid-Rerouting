@@ -132,7 +132,6 @@ iv.	A graph is drawn using matplotlib:
 
 The application shows the following nodes marked as faulty:
 ```
-
 •       Grid 2
 
 •	Grid 4
@@ -141,6 +140,16 @@ The application shows the following nodes marked as faulty:
 
 These are represented as red nodes on the graph.
 ```
+
 ![Image](https://github.com/user-attachments/assets/2f8801f7-5754-4e78-b0ba-b55a3da98205)
+
+The application has calculated a shortest path that avoids all faulty grid points
+```
+•	The path goes from grid point 3 → 1 → 9 → 12
+
+•	This path is highlighted in green on the graph visualization
+
+•	The total cost (sum of weights) for this path is 30
+```
 
 ![Image](https://github.com/user-attachments/assets/ed2f6203-4874-4aaf-95f8-6d776179ffb1)
