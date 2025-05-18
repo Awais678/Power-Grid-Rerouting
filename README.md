@@ -105,7 +105,7 @@ When you run the script:<br>
 
 2. Loading the Graph
 
-When you click "Load Graph from data.txt":<br>
+When you click "Load Graph from data.txt":
 
 🧠 What Happens Internally:<br>
 
